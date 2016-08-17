@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HUM MUS</title>
+    <description>Healthy Urban Mobility</description>
+    <link>http://www.hum-mus.org/</link>
+    <atom:link href="http://www.hum-mus.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Aug 2016 17:13:23 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 17:13:23 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+  </channel>
+</rss>
